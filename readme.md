@@ -1,1 +1,3 @@
+# Expense Tracker Android App
 
+This android application is used to track all your daily expenses and can check the history of expenses made. The data are stored only in the user's android phone. This is just the starting idea of the application and will add many features...
